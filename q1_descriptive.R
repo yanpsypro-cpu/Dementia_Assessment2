@@ -1,4 +1,4 @@
-# Set the working directory to assessment2 before running.
+# q1
 source("00_prepare.R", local = TRUE)
 
 output_dir <- file.path(a2_dir, "q1_output")
